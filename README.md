@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Pivodur.github.io/rsschool-cv/cv
