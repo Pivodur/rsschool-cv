@@ -31,6 +31,7 @@ const smallestDivisor = (num) => {
 ```
 ### Experience
 I have already made two landings on the course of Vadim Prokopchuk. i used Html and CSS for this.
+Also I made this task
 ### Education 
 HTML and CSS course of Vadim Prokopchuk
 ### Languages
