@@ -70,6 +70,7 @@ body {
 .header {
     background-color: #E4F6FB;
     padding: 10px 0 30px;
+    margin-bottom: 30px;
 }
 
 .header__person {
@@ -103,4 +104,4 @@ body {
     margin-right: 13px;
 }
 
-.header__text {}
+
