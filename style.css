@@ -69,8 +69,8 @@ body {
 
 .header {
     background-color: #E4F6FB;
-    padding: 10px 0 30px;
-    margin-bottom: 30px;
+    padding: 10px 0 20px;
+    margin-bottom: 20px;
 }
 
 .header__person {
@@ -102,6 +102,22 @@ body {
     height: 88px;
     border-radius: 50%;
     margin-right: 13px;
+}
+
+.main__item {
+    margin-bottom: 20px;
+}
+
+.main__title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1C8EB5;
+    margin-bottom: 8px;
+}
+
+.main__code {
+    margin: 0;
 }
 
 
