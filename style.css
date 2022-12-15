@@ -58,3 +58,14 @@ select {
     margin: 0 auto;
 }
 
+.header {
+    background-color: #E4F6FB;
+}
+
+.header__person {
+    display: flex;
+}
+
+.header__name {
+    
+}
