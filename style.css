@@ -1,0 +1,148 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+ul[class],
+ol[class] {
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+    margin: 0
+}
+
+ul[class] {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
+
+body {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+    color: #222222;
+}
+
+.container {
+    max-width: 560px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #E4F6FB;
+    padding: 10px 0 20px;
+    margin-bottom: 20px;
+}
+
+.header__person {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header__name {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.header__occupation {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color: #1C8EB5;
+}
+
+.header__ava {
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    margin-right: 13px;
+}
+
+.main__item {
+    margin-bottom: 20px;
+}
+
+.main__title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1C8EB5;
+    margin-bottom: 8px;
+}
+
+.main__code {
+    margin: 0;
+}
+
+.footer {
+    background-color: #E4F6FB;
+}
+
+.footer__inner {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0;
+    align-items: baseline;
+}
+
+.github-link {
+    color: #222222
+}
+
+.github-link:hover {
+    border-bottom: solid 1px #222222;
+    transition: 0.1s;
+}
+
+.rs-img {
+    width: 50px;
+}
+
+
+
