@@ -120,4 +120,29 @@ body {
     margin: 0;
 }
 
+.footer {
+    background-color: #E4F6FB;
+}
+
+.footer__inner {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0;
+    align-items: baseline;
+}
+
+.github-link {
+    color: #222222
+}
+
+.github-link:hover {
+    border-bottom: solid 1px #222222;
+    transition: 0.1s;
+}
+
+.rs-img {
+    width: 50px;
+}
+
+
 
